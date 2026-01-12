@@ -1,4 +1,4 @@
-# Linked-Read Whole Genome Sequencing Profiles Structural Variant Landscape of Gliomas with Barcode-Level Evidence
+# Linked-Read Whole-Genome Sequencing Characterizes Structural Variation in Gliomas
 
  
 This repository contains custom code used for analysis and plotting in Tian et al. (In Press)
@@ -7,7 +7,7 @@ This repository contains custom code used for analysis and plotting in Tian et a
 #
 ## Data Availability
 
-Linked-read whole-genome sequencing (EGASXXXXXXXX) datasets generated and analysed in this study are available through the European Genome-Phenome Archive (https://www.ebi.ac.uk/ega/studies/) repository, in the form of FASTQ or BAM files.   
+Linked-read whole-genome sequencing (EGAD50000001391, EGAD50000001390) datasets generated and analysed in this study are available through the European Genome-Phenome Archive (https://www.ebi.ac.uk/ega/studies/) repository, in the form of BAM files.   
 
 Processed single-nuclei RNA sequencing data are publically available through this GitHub repository, in the form of an RDS file containing RNA expression profiles and cell type annotations.
 
